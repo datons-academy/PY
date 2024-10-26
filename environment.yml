@@ -11,6 +11,8 @@ dependencies:
   - s3fs
   - scikit-learn
   - plotly
+  - kaleido
+  - matplotlib
   - beautifulsoup4
   # - fsspec
   # - python-dateutil
